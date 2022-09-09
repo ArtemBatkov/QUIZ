@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_level8_Ukraine">Украина</string>
+    <string name="s1_level8_Kazakhstan">Казахстан</string>
+    <string name="s1_level8_Russia">Россия</string>
+    <string name="s1_level8_USA">Сша</string>
+    <string name="s1_level8_Canada">Канада</string>
+    <string name="s1_level8_Australia">Австралия</string>
+    <string name="s1_level8_Great_Britain">Великобритания</string>
+    <string name="s1_level8_Armenia">Армения</string>
+    <string name="s1_level8_Belarus">Беларусь</string>
+    <string name="s1_level8_Japan">Япония</string>
+
+    <string name="s1_level8_Mali">Мали</string>
+    <string name="s1_level8_Congo">Конго</string>
+    <string name="s1_level8_Madagascar">Мадагаскар</string>
+    <string name="s1_level8_Italy">Италия</string>
+    <string name="s1_level8_Norway">Норвегия</string>
+    <string name="s1_level8_Czechia">Чехия</string>
+    <string name="s1_level8_Ireland">Ирландия</string>
+    <string name="s1_level8_Guatemala">Гватемала</string>
+    <string name="s1_level8_Island">Исландия</string>
+    <string name="s1_level8_Papua_New_Guinea">Папуа Новая Гвинея</string>
+
+</resources>

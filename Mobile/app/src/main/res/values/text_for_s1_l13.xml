@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_l13_capital1">Kiev</string>
+    <string name="s1_l13_capital2">Astana</string>
+    <string name="s1_l13_capital3">Moscow</string>
+    <string name="s1_l13_capital4">Washington</string>
+    <string name="s1_l13_capital5">Ottawa</string>
+    <string name="s1_l13_capital6">Canberra</string>
+    <string name="s1_l13_capital7">London</string>
+    <string name="s1_l13_capital8">Yerevan</string>
+    <string name="s1_l13_capital9">Minsk</string>
+    <string name="s1_l13_capital10">Tokyo</string>
+    <string name="s1_l13_capital11">Bamako</string>
+    <string name="s1_l13_capital12">Brazzaville</string>
+    <string name="s1_l13_capital13">Antananarivo</string>
+    <string name="s1_l13_capital14">Rome</string>
+    <string name="s1_l13_capital15">Oslo</string>
+    <string name="s1_l13_capital16">Prague</string>
+    <string name="s1_l13_capital17">Dublin</string>
+    <string name="s1_l13_capital18">Guatemala</string>
+    <string name="s1_l13_capital19">Reykjavik</string>
+    <string name="s1_l13_capital20">Port Moresby</string>
+    <string name="s1_l13_capital21">Mexico</string>
+    <string name="s1_l13_capital22">San Jose</string>
+    <string name="s1_l13_capital23">Panama</string>
+    <string name="s1_l13_capital24">Pyongyang</string>
+    <string name="s1_l13_capital25">Seoul</string>
+    <string name="s1_l13_capital26">Phnom Penh</string>
+    <string name="s1_l13_capital27">Rabat</string>
+    <string name="s1_l13_capital28">Jerusalem</string>
+    <string name="s1_l13_capital29">Dhaka</string>
+    <string name="s1_l13_capital30">Islamabad</string>
+    <string name="s1_l13_capital31">New Delhi</string>
+    <string name="s1_l13_capital32">Sanaa</string>
+    <string name="s1_l13_capital33">Colombo</string>
+    <string name="s1_l13_capital34">Amsterdam</string>
+    <string name="s1_l13_capital35">Lisbon</string>
+    <string name="s1_l13_capital36">Copenhagen</string>
+    <string name="s1_l13_capital37">Nuuk</string>
+    <string name="s1_l13_capital38">Taipei</string>
+    <string name="s1_l13_capital39">Bangkok</string>
+    <string name="s1_l13_capital40">Ulan-Bator</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_l13_capital1">Киев</string>
+    <string name="s1_l13_capital2">Астана</string>
+    <string name="s1_l13_capital3">Москва</string>
+    <string name="s1_l13_capital4">Вашингтон</string>
+    <string name="s1_l13_capital5">Оттава</string>
+    <string name="s1_l13_capital6">Канберра</string>
+    <string name="s1_l13_capital7">Лондон</string>
+    <string name="s1_l13_capital8">Ереван</string>
+    <string name="s1_l13_capital9">Минск</string>
+    <string name="s1_l13_capital10">Токио</string>
+    <string name="s1_l13_capital11">Бамако</string>
+    <string name="s1_l13_capital12">Браззавиль</string>
+    <string name="s1_l13_capital13">Антананариво</string>
+    <string name="s1_l13_capital14">Рим</string>
+    <string name="s1_l13_capital15">Осло</string>
+    <string name="s1_l13_capital16">Прага</string>
+    <string name="s1_l13_capital17">Дублин</string>
+    <string name="s1_l13_capital18">Гватамола</string>
+    <string name="s1_l13_capital19">Рейкьявик</string>
+    <string name="s1_l13_capital20">Порт Морсби</string>
+    <string name="s1_l13_capital21">Мехико</string>
+    <string name="s1_l13_capital22">Сан Хосе</string>
+    <string name="s1_l13_capital23">Панама</string>
+    <string name="s1_l13_capital24">Пхеньян</string>
+    <string name="s1_l13_capital25">Сеул</string>
+    <string name="s1_l13_capital26">Пном Пен</string>
+    <string name="s1_l13_capital27">Рабат</string>
+    <string name="s1_l13_capital28">Иерусалим</string>
+    <string name="s1_l13_capital29">Дакка</string>
+    <string name="s1_l13_capital30">Исламабад</string>
+    <string name="s1_l13_capital31">Нью-Дели</string>
+    <string name="s1_l13_capital32">Сана</string>
+    <string name="s1_l13_capital33">Коломбо</string>
+    <string name="s1_l13_capital34">Амстерам</string>
+    <string name="s1_l13_capital35">Лассабон</string>
+    <string name="s1_l13_capital36">Копенгаген</string>
+    <string name="s1_l13_capital37">Нуук</string>
+    <string name="s1_l13_capital38">Тайбей</string>
+    <string name="s1_l13_capital39">Бангкок</string>
+    <string name="s1_l13_capital40">Улан-Батор</string>
+</resources>

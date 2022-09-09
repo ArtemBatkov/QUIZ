@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="s1l1_zero">Нуль</string>
+    <string name="s1l1_one">Один</string>
+    <string name="s1l1_two">Два</string>
+    <string name="s1l1_three">Три</string>
+    <string name="s1l1_four">Четыре</string>
+    <string name="s1l1_five">Пять</string>
+    <string name="s1l1_six">Шесть</string>
+    <string name="s1l1_seven">Семь</string>
+    <string name="s1l1_eight">Восемь</string>
+    <string name="s1l1_nine">Девять</string>
+</resources>

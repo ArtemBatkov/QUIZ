@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="s1l3_bobtail_cat">Bobtail\nCat</string>
+    <string name="s1l3_vole">Vole</string>
+    <string name="s1l3_budgie">Budgie</string>
+    <string name="s1l3_dog">Dog</string>
+    <string name="s1l3_squirrel">Squirrel</string>
+    <string name="s1l3_skunk">Skunk</string>
+    <string name="s1l3_wolf">Wolf</string>
+    <string name="s1l3_pheasant">Pheasant</string>
+    <string name="s1l3_lemur">Lemur</string>
+    <string name="s1l3_astrapia">Astrapia</string>
+</resources>

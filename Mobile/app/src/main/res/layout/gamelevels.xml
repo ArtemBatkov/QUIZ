@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/season_1"
+        android:scaleType="centerCrop">
+    </ImageView>
+
+    <LinearLayout
+        android:id="@+id/container1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/container2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50dp"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:id="@+id/container3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/season_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_lvl_back"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/back"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:textSize="24sp" />
+
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp">
+
+                <LinearLayout
+                    android:id="@+id/container4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/line_1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/season1_level1"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:gravity="center"
+                            android:text="1"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level2"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level3"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level4"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level5"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/line_2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/season1_level6"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level7"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level8"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level9"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level10"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/line_3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/season1_level11"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level12"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level13"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level14"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/season1_level15"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/btns_line"
+                            android:gravity="center"
+                            android:text="X"
+                            android:textColor="@color/white"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

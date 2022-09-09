@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="s1_l12_color1">#FFFFFF</color>
+    <string name="txt_s1_l12_color1">white</string>
+
+    <color name="s1_l12_color2">#000000</color>
+    <string name="txt_s1_l12_color2">black</string>
+
+    <color name="s1_l12_color3">#FF0000</color>
+    <string name="txt_s1_l12_color3">red</string>
+
+    <color name="s1_l12_color4">#E45E5E</color>
+    <string name="txt_s1_l12_color4">pink</string>
+
+    <color name="s1_l12_color5">#5C0505</color>
+    <string name="txt_s1_l12_color5">vinous</string>
+
+    <color name="s1_l12_color6">#572705</color>
+    <string name="txt_s1_l12_color6">brown</string>
+
+    <color name="s1_l12_color7">#A8F87C5D</color>
+    <string name="txt_s1_l12_color7">peachy</string>
+
+    <color name="s1_l12_color8">#FF3300</color>
+    <string name="txt_s1_l12_color8">orange</string>
+
+    <color name="s1_l12_color9">#45322e</color>
+    <string name="txt_s1_l12_color9">chocolate</string>
+
+    <color name="s1_l12_color10">#D53E07</color>
+    <string name="txt_s1_l12_color10">titian</string>
+
+    <color name="s1_l12_color11">#FF7F50</color>
+    <string name="txt_s1_l12_color11">coral</string>
+
+    <color name="s1_l12_color12">#E55137</color>
+    <string name="txt_s1_l12_color12">salmon-orange</string>
+
+
+    <color name="s1_l12_color13">#F36223</color>
+    <string name="txt_s1_l12_color13">carrot</string>
+
+    <color name="s1_l12_color14">#E9FFBD00</color>
+    <string name="txt_s1_l12_color14">amber</string>
+
+    <color name="s1_l12_color15">#FFDB58</color>
+    <string name="txt_s1_l12_color15">mustard</string>
+
+    <color name="s1_l12_color16">#F4A900</color>
+    <string name="txt_s1_l12_color16">melon</string>
+
+    <color name="s1_l12_color17">#EDFF21</color>
+    <string name="txt_s1_l12_color17">sulfur</string>
+
+    <color name="s1_l12_color18">#FBEC5D</color>
+    <string name="txt_s1_l12_color18">corn</string>
+
+    <color name="s1_l12_color19">#FDE910</color>
+    <string name="txt_s1_l12_color19">lemon</string>
+
+    <color name="s1_l12_color20">#FCDD76</color>
+    <string name="txt_s1_l12_color20">sand</string>
+
+    <color name="s1_l12_color21">#FFD800</color>
+    <string name="txt_s1_l12_color21">school bus color</string>
+
+    <color name="s1_l12_color22">#A8E4A0</color>
+    <string name="txt_s1_l12_color22">green apples</string>
+
+    <color name="s1_l12_color23">#1E5945</color>
+    <string name="txt_s1_l12_color23">turquoise-green</string>
+
+    <color name="s1_l12_color24">#7CFC00</color>
+    <string name="txt_s1_l12_color24">green lawn</string>
+
+    <color name="s1_l12_color25">#009B77</color>
+    <string name="txt_s1_l12_color25">emerald</string>
+
+    <color name="s1_l12_color26"> #00FF00</color>
+    <string name="txt_s1_l12_color26">lime</string>
+
+    <color name="s1_l12_color27">#3EB489</color>
+    <string name="txt_s1_l12_color27">mint</string>
+
+    <color name="s1_l12_color28">#808000</color>
+    <string name="txt_s1_l12_color28">olive</string>
+
+    <color name="s1_l12_color29">#42AAFF</color>
+    <string name="txt_s1_l12_color29">light-blue</string>
+
+    <color name="s1_l12_color30">#002F55</color>
+    <string name="txt_s1_l12_color30">blue</string>
+
+    <color name="s1_l12_color31">#1560BD</color>
+    <string name="txt_s1_l12_color31">jeans</string>
+
+    <color name="s1_l12_color32">#5D76CB</color>
+    <string name="txt_s1_l12_color32">indigo</string>
+
+    <color name="s1_l12_color33">#0047AB</color>
+    <string name="txt_s1_l12_color33">cobalt</string>
+
+    <color name="s1_l12_color34">#7FC7FF</color>
+    <string name="txt_s1_l12_color34">sky</string>
+
+    <color name="s1_l12_color35">#A17FFF</color>
+    <string name="txt_s1_l12_color35">amethyst</string>
+
+    <color name="s1_l12_color36">#660066</color>
+    <string name="txt_s1_l12_color36">plum</string>
+
+    <color name="s1_l12_color37">#BA55D3</color>
+    <string name="txt_s1_l12_color37">orchid</string>
+
+    <color name="s1_l12_color38">#E0B0FF</color>
+    <string name="txt_s1_l12_color38">lilac</string>
+
+    <color name="s1_l12_color39">#474747</color>
+    <string name="txt_s1_l12_color39">gray</string>
+
+    <color name="s1_l12_color40">#B02E61</color>
+    <string name="txt_s1_l12_color40">crimson</string>
+
+</resources>

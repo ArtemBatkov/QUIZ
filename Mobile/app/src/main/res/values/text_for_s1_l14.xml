@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_level14_planet1">Earth</string>
+    <string name="s1_level14_planet2">Venus</string>
+    <string name="s1_level14_planet3">Mars</string>
+    <string name="s1_level14_planet4">Mercury</string>
+    <string name="s1_level14_planet5">Jupyter</string>
+    <string name="s1_level14_planet6">Saturn</string>
+    <string name="s1_level14_planet7">Uranus</string>
+    <string name="s1_level14_planet8">Neptune</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_s1_level9_fact1">One million Earthes can fit inside the Sun.</string>
+    <string name="text_s1_level9_fact2">There are more trees on Earth than stairs in the Milky Way.</string>
+    <string name="text_s1_level9_fact3">Space is completly silent.</string>
+    <string name="text_s1_level9_fact4">Space is full of space junk.</string>
+    <string name="text_s1_level9_fact5">The center of the Milky Way galaxy has tens of thousands of black holes.</string>
+
+    <string name="text_s1_level9_fact6">You lose out on a third of your taste buds during flights.</string>
+    <string name="text_s1_level9_fact7">Pilots and co-pilots are required to eat different meals.</string>
+    <string name="text_s1_level9_fact8">You lose 8 ounces of water from your body for every hour you fly.</string>
+    <string name="text_s1_level9_fact9">Most people around the world have never set foot on a plane.</string>
+    <string name="text_s1_level9_fact10">Locked plane bathrooms aren’t really locked.</string>
+
+    <string name="text_s1_level9_fact11">Grasses make up about 26% of the plant life on earth.</string>
+    <string name="text_s1_level9_fact12">About 1,400 species of grasses exist in the United States.</string>
+    <string name="text_s1_level9_fact13">Giant bamboo, which can grow up to 151 feet tall, is the largest variety of grass.</string>
+    <string name="text_s1_level9_fact14">Grass is green because of the chlorophyll in it.</string>
+    <string name="text_s1_level9_fact15">Grass is used to make alcohol.</string>
+
+    <string name="text_s1_level9_fact16">There are more than 50,000 cities in the world.</string>
+    <string name="text_s1_level9_fact17">Megacities are cities with more than 10 million people living in them.</string>
+    <string name="text_s1_level9_fact18">Tokyo is the most populated city in the world, with more than 38 million people.</string>
+    <string name="text_s1_level9_fact19">New York is the biggest city in the world, with 8,683 km² in area.</string>
+    <string name="text_s1_level9_fact20">The Vatican City is the smallest city in the world, with only 44 hectares in area.</string>
+
+
+
+    <string name="text_s1_level9_falsefact1">Napoléon was short.</string>
+    <string name="text_s1_level9_falsefact2">Don’t eat and swim.</string>
+    <string name="text_s1_level9_falsefact3">Dogs sweat by salivating.</string>
+    <string name="text_s1_level9_falsefact4">Einstein failed maths.</string>
+    <string name="text_s1_level9_falsefact5">Humans and dinosaurs were in the same era.</string>
+    <string name="text_s1_level9_falsefact6">Vaccines cause autism.</string>
+    <string name="text_s1_level9_falsefact7">Most birds have a limited sense of smell, so they won’t abandon babies who “smell” of humans.</string>
+    <string name="text_s1_level9_falsefact8">Caffeine dehydrates you.</string>
+    <string name="text_s1_level9_falsefact9">You can see the Great Wall of China from space.</string>
+    <string name="text_s1_level9_falsefact10">Cracking your knuckles will give you arthritis.</string>
+    <string name="text_s1_level9_falsefact11">Walt Disney\'s body is cryogenically frozen.</string>
+    <string name="text_s1_level9_falsefact12">When briefed on those suffering in her kingdom, Marie Antoinette replied \"Let them eat cake.\"</string>
+    <string name="text_s1_level9_falsefact13">Adam and Eve eat an apple.</string>
+    <string name="text_s1_level9_falsefact14">All you fingernails grow in the same rate.</string>
+    <string name="text_s1_level9_falsefact15">The Sun is yellow.</string>
+    <string name="text_s1_level9_falsefact16">About 5% of the earth\'s wildlife is found in the ocean.</string>
+    <string name="text_s1_level9_falsefact17">There are more than 10 species of sharks in the ocean.</string>
+    <string name="text_s1_level9_falsefact18">The Pacific Ocean is narrow than the moon.</string>
+    <string name="text_s1_level9_falsefact19">Oceans don\'t have lakes and rivers.</string>
+    <string name="text_s1_level9_falsefact20">If all the ice melted, nothing will happen.</string>
+
+</resources>

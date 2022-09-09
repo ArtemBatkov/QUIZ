@@ -1,0 +1,70 @@
+        //Start Random
+        MakeRandom();
+        SetImageAndText(false);
+
+        //Processing touch of the picture
+
+        img_left.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                //Touching (pressing)
+                if(event.getAction() == MotionEvent.ACTION_DOWN){
+                    img_right.setEnabled(false);//blocking right
+                    if(numLeft>numRight){
+                        img_left.setImageResource(R.drawable.true_answer);
+                    }
+                    else{
+                        img_left.setImageResource(R.drawable.false_answer);
+                    }
+                }
+                //untouching (release)
+                else if (event.getAction() == MotionEvent.ACTION_UP){
+                    if(numLeft>numRight){
+                        //right answer
+                        UpdateScore(1); //add +1 right answer
+                    }else{
+                        //left image < right image (wrong)
+                        UpdateScore(-2);
+                    }
+                    MakePointsGray();
+                    MakePointsGreen();
+                    MakeRandom();//make new random
+                    img_right.setEnabled(true);
+                    SetImageAndText(true);//set text and image AND animate them
+                }
+                return true;
+            }
+        });
+
+        img_right.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                //Touching (pressing)
+                if(event.getAction() == MotionEvent.ACTION_DOWN){
+                    img_left.setEnabled(false);//blocking right
+                    if(numRight>numLeft){
+                        img_right.setImageResource(R.drawable.true_answer);
+                    }
+                    else{
+                        img_right.setImageResource(R.drawable.false_answer);
+                    }
+                }
+                //untouching (release)
+                else if (event.getAction() == MotionEvent.ACTION_UP){
+                    if(numRight>numLeft){
+                        //right answer
+                        UpdateScore(1); //add +1 right answer
+                    }else{
+                        //left image < right image (wrong)
+                        UpdateScore(-2);
+                    }
+                    MakePointsGray();
+                    MakePointsGreen();
+                    MakeRandom();//make new random
+                    img_left.setEnabled(true);
+                    SetImageAndText(true);//set text and image AND animate them
+
+                }
+                return true;
+            }
+        });

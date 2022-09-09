@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black95">#95000000</color>
+    <color name="white">#FFFFFFFF</color>w
+
+    <color name ="play_strtcolor_unpressed">#A8D3EA</color>
+    <color name="play_centercolor_unpressed">#3883AC</color>
+    <color name ="play_endtcolor_unpressed">#0B568F</color>
+
+    <color name="level_back_color_unpressed">#505C5E</color>
+
+    <color name="btns_line_color_pressed">#E691D8E4</color>
+
+
+
+
+    <color name="cardview_text_color">#2F53E6</color>
+
+    <color name = "primary">#FF000000</color>
+    <color name = "primary_dark">#FF000000</color>
+    <color name = "accent">#FF000000</color>
+
+    <color name = "back_btn_color_l1">#3B95F4</color>
+    <color name="level1_color_text">#EB4AEA45</color>
+    <color name="level1_textview_color">#E966C306</color>
+
+    <color name = "green_points">#79ED59</color>
+
+
+
+
+</resources>

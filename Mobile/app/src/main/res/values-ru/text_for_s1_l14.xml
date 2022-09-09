@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_level14_planet1">Земля</string>
+    <string name="s1_level14_planet2">Венера</string>
+    <string name="s1_level14_planet3">Марс</string>
+    <string name="s1_level14_planet4">Меркурий</string>
+    <string name="s1_level14_planet5">Юпитер</string>
+    <string name="s1_level14_planet6">Сатурн</string>
+    <string name="s1_level14_planet7">Уран</string>
+    <string name="s1_level14_planet8">Нептун</string>
+</resources>

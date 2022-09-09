@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_preview_endlevel1"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/preview_level1"
+    android:layout_gravity="center"
+    android:scaleType="centerCrop"
+    android:layout_margin="10dp">
+
+
+  <FrameLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent">
+          <com.airbnb.lottie.LottieAnimationView
+              android:id="@+id/snow_dude"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              app:lottie_rawRes="@raw/snowy_animation"
+              android:scaleType="centerCrop"
+              app:lottie_autoPlay="true"
+              app:lottie_loop="true"
+              app:lottie_speed="1.05"
+              app:lottie_repeatMode="reverse"
+              android:alpha="0.85"/>
+      </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/snow_anime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:lottie_rawRes="@raw/snow"
+            app:lottie_loop="true"
+            app:lottie_autoPlay="true"
+            android:scaleType="centerCrop"
+            app:lottie_speed="0.70"
+            android:alpha="0.90"
+            />
+    </LinearLayout>
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/second_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/btn_close"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:text="&#60;"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@drawable/button_play"
+            android:layout_gravity="start"/>
+
+        <ScrollView
+            android:id="@+id/scroll_end"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="80"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:id="@+id/text_endlevel1"
+                android:gravity="start"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="@string/text_preview_level1_end"
+                android:textStyle="bold"
+                android:scrollbars="vertical"
+                android:textColor="#332F2F"
+                android:textSize="30sp"
+                android:shadowRadius="0.01"
+                android:shadowDx="5.5"
+                android:shadowDy="3.5"
+                android:shadowColor="@color/black"
+                />
+        </ScrollView>
+
+
+
+
+
+
+
+
+        <Button
+            android:id="@+id/btn_nextlevel"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="10"
+            android:background="@drawable/button_play"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:shadowColor="@color/black95"
+            android:shadowDx="5.5"
+            android:shadowDy="3.5"
+            android:shadowRadius="0.01"
+            android:text="@string/next_level"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </LinearLayout>
+
+
+
+  </FrameLayout>
+
+
+
+</LinearLayout>

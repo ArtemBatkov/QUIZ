@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_s1_level9_fact1">Один миллион планет, соизмеримых с Землей, может поместиться внутри Солнца.</string>
+    <string name="text_s1_level9_fact2">На земле больше деревьев чем звезд в Млечном Пути.</string>
+    <string name="text_s1_level9_fact3">Космос полностью тихий.</string>
+    <string name="text_s1_level9_fact4">Космос заполнен разным космическим мусором.</string>
+    <string name="text_s1_level9_fact5">Центр Млечного Пути заполнен десятками тысяч черных дыр.</string>
+
+    <string name="text_s1_level9_fact6">Вы теряете треть вкусовых рецептеров во время полета.</string>
+    <string name="text_s1_level9_fact7">Пилот  и второй пилот должны питаться разной едой.</string>
+    <string name="text_s1_level9_fact8">Вы теряет 8 унций воды (226г) за каждый час полёта.</string>
+    <string name="text_s1_level9_fact9">Большинство людей в мире никогда не летало на самолетах.</string>
+    <string name="text_s1_level9_fact10">Туалеты в самолете по настоящему никогда не закрываются.</string>
+
+    <string name="text_s1_level9_fact11">Травы составляют 26% живности на планете.</string>
+    <string name="text_s1_level9_fact12">Около 1400 видов травы растет на территории США.</string>
+    <string name="text_s1_level9_fact13">Огромный бамбук, который может вырастать до 151 фута (46м), является одной из разновидностью травы.</string>
+    <string name="text_s1_level9_fact14">Трава зеленная потому, что в клетках содержится хлорофилл.</string>
+    <string name="text_s1_level9_fact15">Трава используется для создания алкоголя.</string>
+
+    <string name="text_s1_level9_fact16">В мире около 50 000 городов.</string>
+    <string name="text_s1_level9_fact17">Мегаполисы – это города с количеством населения более 10 млн.</string>
+    <string name="text_s1_level9_fact18">Токио – самый густонаселенный мегаполис, в котором проживает 38 млн. человек.</string>
+    <string name="text_s1_level9_fact19">Нью Йорк – самый большой города на планете, с площадью 8,683 км².</string>
+    <string name="text_s1_level9_fact20">Ватикан – самый маленький город на планете, площадь которого составляет 44 гектара.</string>
+
+
+
+    <string name="text_s1_level9_falsefact1">Наполеон был низким.</string>
+    <string name="text_s1_level9_falsefact2">Не следует есть перед тем как плавать.</string>
+    <string name="text_s1_level9_falsefact3">Собаки потеют через слюновыделение.</string>
+    <string name="text_s1_level9_falsefact4">Эйнштейн провалил математику.</string>
+    <string name="text_s1_level9_falsefact5">Люди и динозавры жили в одну эпоху.</string>
+    <string name="text_s1_level9_falsefact6">Вакцинация вызывает аутизм.</string>
+    <string name="text_s1_level9_falsefact7">Большинство птиц имеют отличное обоняние, тем самым, не принимают птенцов принесенные людьми.</string>
+    <string name="text_s1_level9_falsefact8">Кофе обезвоживает организм.</string>
+    <string name="text_s1_level9_falsefact9">Можно увидеть Великую Китайскую Стену с космоса.</string>
+    <string name="text_s1_level9_falsefact10">Треск костяшек пальцев вызовит артрит.</string>
+    <string name="text_s1_level9_falsefact11">Тело Волта Диснея креогенно заморожено.</string>
+    <string name="text_s1_level9_falsefact12">Когда Марии Антуанетта донесли о страдающих в её королевстве, она ответила \"Пусть едят пироженные.\"</string>
+    <string name="text_s1_level9_falsefact13">Адам и Ева съели яблоко.</string>
+    <string name="text_s1_level9_falsefact14">Все ваши ногти растут в одинаковом темпе.</string>
+    <string name="text_s1_level9_falsefact15">Солнце желтое.</string>
+    <string name="text_s1_level9_falsefact16">Около 5% жизни на земле находится в океане.</string>
+    <string name="text_s1_level9_falsefact17">В океане обидает более 10 видов акул.</string>
+    <string name="text_s1_level9_falsefact18">Тихий Океан уже чем Луна.</string>
+    <string name="text_s1_level9_falsefact19">Океаны не имеют озер и рек.</string>
+    <string name="text_s1_level9_falsefact20">Если все ледники растают, то ничего не случится.</string>
+
+</resources>

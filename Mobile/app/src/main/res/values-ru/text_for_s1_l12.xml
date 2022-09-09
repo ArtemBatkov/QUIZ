@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="s1_l12_color1">#FFFFFF</color>
+    <string name="txt_s1_l12_color1">белый</string>
+
+    <color name="s1_l12_color2">#000000</color>
+    <string name="txt_s1_l12_color2">черный</string>
+
+    <color name="s1_l12_color3">#FF0000</color>
+    <string name="txt_s1_l12_color3">красный</string>
+
+    <color name="s1_l12_color4">#E45E5E</color>
+    <string name="txt_s1_l12_color4">розовый</string>
+
+    <color name="s1_l12_color5">#5C0505</color>
+    <string name="txt_s1_l12_color5">бордовый</string>
+
+    <color name="s1_l12_color6">#572705</color>
+    <string name="txt_s1_l12_color6">коричневый</string>
+
+    <color name="s1_l12_color7">#A8F87C5D</color>
+    <string name="txt_s1_l12_color7">персиковый</string>
+
+    <color name="s1_l12_color8">#FF3300</color>
+    <string name="txt_s1_l12_color8">оранжевый</string>
+
+    <color name="s1_l12_color9">#45322e</color>
+    <string name="txt_s1_l12_color9">шоколадный</string>
+
+    <color name="s1_l12_color10">#D53E07</color>
+    <string name="txt_s1_l12_color10">тицианновый</string>
+
+    <color name="s1_l12_color11">#FF7F50</color>
+    <string name="txt_s1_l12_color11">кораловый</string>
+
+    <color name="s1_l12_color12">#E55137</color>
+    <string name="txt_s1_l12_color12">лососево-оранжевый</string>
+
+
+    <color name="s1_l12_color13">#F36223</color>
+    <string name="txt_s1_l12_color13">морковный</string>
+
+    <color name="s1_l12_color14">#E9FFBD00</color>
+    <string name="txt_s1_l12_color14">янтарный</string>
+
+    <color name="s1_l12_color15">#FFDB58</color>
+    <string name="txt_s1_l12_color15">горчичный</string>
+
+    <color name="s1_l12_color16">#F4A900</color>
+    <string name="txt_s1_l12_color16">дыневый</string>
+
+    <color name="s1_l12_color17">#EDFF21</color>
+    <string name="txt_s1_l12_color17">серный</string>
+
+    <color name="s1_l12_color18">#FBEC5D</color>
+    <string name="txt_s1_l12_color18">кукурузный</string>
+
+    <color name="s1_l12_color19">#FDE910</color>
+    <string name="txt_s1_l12_color19">лимоновый</string>
+
+    <color name="s1_l12_color20">#FCDD76</color>
+    <string name="txt_s1_l12_color20">песчанный</string>
+
+    <color name="s1_l12_color21">#FFD800</color>
+    <string name="txt_s1_l12_color21">цвет школьного автобуса</string>
+
+    <color name="s1_l12_color22">#A8E4A0</color>
+    <string name="txt_s1_l12_color22">зелено яблочный</string>
+
+    <color name="s1_l12_color23">#1E5945</color>
+    <string name="txt_s1_l12_color23">бирюзово-зеленный</string>
+
+    <color name="s1_l12_color24">#7CFC00</color>
+    <string name="txt_s1_l12_color24">зеленая лужайка</string>
+
+    <color name="s1_l12_color25">#009B77</color>
+    <string name="txt_s1_l12_color25">изумрудный</string>
+
+    <color name="s1_l12_color26"> #00FF00</color>
+    <string name="txt_s1_l12_color26">лаймовый</string>
+
+    <color name="s1_l12_color27">#3EB489</color>
+    <string name="txt_s1_l12_color27">мятный</string>
+
+    <color name="s1_l12_color28">#808000</color>
+    <string name="txt_s1_l12_color28">оливковый</string>
+
+    <color name="s1_l12_color29">#42AAFF</color>
+    <string name="txt_s1_l12_color29">голубой</string>
+
+    <color name="s1_l12_color30">#002F55</color>
+    <string name="txt_s1_l12_color30">синий</string>
+
+    <color name="s1_l12_color31">#1560BD</color>
+    <string name="txt_s1_l12_color31">джинсовый</string>
+
+    <color name="s1_l12_color32">#5D76CB</color>
+    <string name="txt_s1_l12_color32">индиго</string>
+
+    <color name="s1_l12_color33">#0047AB</color>
+    <string name="txt_s1_l12_color33">кобальтовый</string>
+
+    <color name="s1_l12_color34">#7FC7FF</color>
+    <string name="txt_s1_l12_color34">цвет неба</string>
+
+    <color name="s1_l12_color35">#A17FFF</color>
+    <string name="txt_s1_l12_color35">аметистовый</string>
+
+    <color name="s1_l12_color36">#660066</color>
+    <string name="txt_s1_l12_color36">сливовый</string>
+
+    <color name="s1_l12_color37">#BA55D3</color>
+    <string name="txt_s1_l12_color37">орхидейный</string>
+
+    <color name="s1_l12_color38">#E0B0FF</color>
+    <string name="txt_s1_l12_color38">сиреневый</string>
+
+    <color name="s1_l12_color39">#474747</color>
+    <string name="txt_s1_l12_color39">серый</string>
+
+    <color name="s1_l12_color40">#B02E61</color>
+    <string name="txt_s1_l12_color40">малиновый</string>
+
+</resources>

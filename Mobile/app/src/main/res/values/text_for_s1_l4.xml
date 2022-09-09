@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1l4_q1">The Bible is a book that is most often stolen in American stores.</string>
+    <string name="s1l4_q2">U.S. law allowed children to be sent by mail until 1913.</string>
+    <string name="s1l4_q3">In modern history, there is a period of time when Apple had more funds in its accounts than the American government.</string>
+    <string name="s1l4_q4">Saudi Arabia does not contain rivers.</string>
+    <string name = "s1l4_q5">There is only one river in Antarctica – Onyx, it flows only 60 days a year.</string>
+    <string name="s1l4_q6">Lemon contains more sugar than strawberries.</string>
+    <string name="s1l4_q7">There are only 7% left-handers in the world</string>
+    <string name="s1l4_q8">The cow can go up the stairs, but she can\'t go down.</string>
+    <string name="s1l4_q9">The tallest building in Europe is located in Moscow.</string>
+    <string name="s1l4_q10">There are more stars in the universe than there are grains of sand on all the beaches of the Earth.</string>
+
+    <!--False facts-->
+    <string name="s1l4_q11">The red rag irritates the bull.</string>
+    <string name="s1l4_q12">Bananas are harvested from palm trees.</string>
+    <string name="s1l4_q13">Dogs see our world in black and white colors.</string>
+    <string name="s1l4_q14">Wolves are always howling at the moon.</string>
+    <string name="s1l4_q15">Pluto is the ninth planet.</string>
+    <string name="s1l4_q16">Cockroaches can survive a nuclear apocalypse.</string>
+    <string name="s1l4_q17">Newton discovered the law of universal gravitation after an apple fell on his head.</string>
+    <string name="s1l4_q18">Sweets improve brain activity.</string>
+    <string name="s1l4_q19">Tomatoes are vegetables.</string>
+    <string name="s1l4_q20">The compass needle always points to true north.</string>
+</resources>

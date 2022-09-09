@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="start_btn">Play</string>
+    <string name="iceburg_txt">It seems that the explicit conscious thoughts that we can articulate are just the tip of our cognitive iceberg.</string>
+    <string name="mainmenu_season1">Season 1</string>
+    <string name="mainmenu_newseason">Coming soon!</string>
+    <string name="back">Back</string>
+    <string name = "lvl_txt">Level:</string>
+
+    <string name = "text_decription_level1">\t\tPick the largest value.\nThe questions can repeat until you take 10 points.</string>
+    <string name="text_continue">Continue</string>
+    <string name="level1">Level: 1</string>
+    <string name = "text_preview_level1_end">\t\tCongratulation, you passed the level!\n\n\t\tDid you know, there is no number zero in the Rome numeral system?\n\n\t\tHowever number zero is specific like number 7.\n\n\t\tFor example, programmers start to count objects from zero.</string>
+    <string name="next_level">Next level</string>
+
+    <string name="level2">Level: 2</string>
+    <string name="text_s1_level2_description">Pick the Rome numeric which is more.The questions can repeat until you take 10 points.</string>
+
+
+    <string name = "text_preview_level2_end">\t\tCongratulation, you passed the level!\n\n\t\tDid you know, Rome numbers, such as, I,II,III consist of the repeating ones. However, the repeating one symbol for four times is forbidden! For creation new numbers, Romans used adding or subtracting operations, for example, IV means 4, and VI means 6.</string>
+
+    <string name="curlang">Ru</string>
+
+    <string name="level3">Level: 3</string>
+    <string name = "text_s1_level3_description">\t\tYou are given 4 images with various animal. Your task is to pick an animal which has the longest tail.\n\t\tThe questions will appear until you take 10 points.\n\t\tYou have only 5 seconds for each round to pick the right card.</string>
+    <string name="text_preview_level3_end">\t\tCongratulation, you passed the level! Did you know, astrapia is derived from the Greek, meaning lightning or a flash.\n\t\tThe environment of the astrapia bird is New Guinea. The length of the tail is usually more than 1 meter!And it is considered as the animal with the longest tail.</string>
+
+    <string name="txt_true">True</string>
+    <string name="txt_false">False</string>
+    <string name="level4">Level: 4</string>
+
+    <string name = "text_s1_level4_description">\t\tWelcome to level 4!\n\t\tYour are given a statement, and you need to answer is it true or false?\n\t\tThe questions will repeat until you take 10 points.\n\t\tYou have only 5 seconds for each question.\n\t\tGood Luck!</string>
+    <string name="text_s1_level4_description_end">\t\tOh,that was hard task, right? I see you are accomplished it. Great!\n\t\tHere are some new facts. Did you know, there’s enough gold inside Earth to coat the planet? Turns out, there’s quite a bit of gold on—or, really, in—our planet: 99 percent of the precious metal can be found in the Earth’s core, Discover Magazine reports. How much is there? Enough to coat the entire surface of the Earth in 1.5 feet of gold.\n\t\tOne more fact is Human beings can use only a small fraction of Earth’s water.\t In school, we were taught that most (specifically, 71 percent) of the planet’s surface is covered in water. While that’s true, humans can use only 0.007 percent of that water, according to National Geographic. That’s because only about 2.5 percent of Earth’s water is fresh water, and only 1 percent of that is accessible. The rest makes up glaciers and snowfields.</string>
+
+    <string name="level5">Level: 5</string>
+    <string name="text_s1_level5_description">\t\tWelcome to level 5!\n\t\tYour task is to put some puzzle\'s fragments together. You are given a two fragments below, and you need to pick the piece related to the one of the loveliest season of the year is fall.\n\t\tIf you make at least one of a mistake, the level will restart. The level is restricted by timer.\n\t\tGood Luck!</string>
+    <string name="text_preview_level5_end">\t\tThe image that you solved was made in Canada.\n\t\tIn Canada, autumn is known as the \"leaf-peeping\" season.\n\t\tIt’s one of the best places on the planet to see the leaves turn to fiery reds, oranges, and yellows.Wherever you go, the forest canopies will be aflame with brilliant colours and the trees flanking the roadsides will be putting on a gorgeous display.\n\t\tDid you know, March,April,May is autumn months in the South Pole?</string>
+
+    <string name="level6">Level: 6</string>
+    <string name="text_s1_level6_description">\t\tWelcome to level 6!\n\t\tYou are given 4 images with various weight. Your task is to pick the heaviest object.\n\t\tThe questions will appear until you take 10 points.\n\t\tGood Luck!</string>
+
+    <string name="text_s1_level6_description_end">\t\tDid you know, that a typical stellar-class of black hole has a mass between about 3 and 10 solar masses.\n\t\tSupermassive black holes exist in the center of most galaxies, including our own Milky Way Galaxy.</string>
+
+    <string name="level7">Level: 7</string>
+    <string name="text_s1_level7_description">\t\tLevel 7!\n\t\t\Pick something eatable!\n\t\tGood Luck!</string>
+    <string name="text_s1_level7_description_end">\t\tTomato sauce, Mozzarella, greens are always presented in the real Italian pizza. These components not only give special taste to the dishes, but also have symbolic sign, the color scheme represents Italian flag.</string>
+
+    <string name="level8">Level: 8</string>
+    <string name="text_s1_level8_description">\t\tWelcome to level 8!You are given a flag of someone country, and you need to pick the right answer from 4 variants. Good Luck!</string>
+    <string name="text_s1_level8_description_end">\t\tDid you know, that London is the city where subway appeared first.</string>
+
+    <string name="level9">Level: 9</string>
+    <string name = "text_s1_level9_description">\t\tWelcome to level 9!\n\t\tYour are given a statement, and you need to answer is it true or false?\n\t\tThe questions will repeat until you take 10 points.\n\t\tYou have only 5 seconds for each question.\n\t\tGood Luck!</string>
+    <string name = "text_s1_level9_description_end">\t\tDid you know, that humankind were in the Moon earlier than a luggage case was developed.</string>
+
+    <string name="level10">Level: 10</string>
+    <string name = "text_s1_level10_description">\t\tWelcome to level 10!\n\t\tYour are given two images, and you need to pick a thing or an animal which can swim.\n\t\tThe questions will repeat until you take 10 points.\n\t\t\n\t\tGood Luck!</string>
+    <string name = "text_s1_level10_description_end">\t\tDid you know, that swimming was known to be a noble skill for Japanese samurai?</string>
+
+    <string name="level11">Level: 11</string>
+    <string name="text_s1_level11_description">\t\tWelcome to level 11!\n\t\tYour task is to put some puzzle\'s fragments together. You are given a two fragments below, and you need to pick the piece related to the tallest building in Seattle - Space Needle\'s scenery.\n\t\tIf you make at least one of a mistake, the level will restart. The level is restricted by timer.\n\t\tGood Luck!</string>
+    <string name="text_s1_level11_description_end">\t\tDid you know, that the Space Needle is 605 ft (184 m) high ?</string>
+
+    <string name="level12">Level: 12</string>
+    <string name="text_s1_level12_description">\t\tWelcome to level 12!\n\t\tYou are given a text which marks a color, after that you need to pick the right color of the four introduced.\n\t\tThe timer is 3 seconds now!\n\t\tGood Luck!</string>
+    <string name="text_s1_level12_description_end">\t\tDid you know, that yellow and red together make you hungry? Fast food chains figured this out years ago and use this color combination over and over in branding, advertising and restaurant decor.</string>
+
+    <string name="level13">Level: 13</string>
+    <string name="text_s1_level13_description">\t\tWelcome to level 13!\n\t\tMatch the flag of the country to its capital.\n\t\tGood Luck!</string>
+    <string name="text_s1_level13_description_end">\t\tDid you know, that a person can go to prison for cheating during an exam in Bangladesh?</string>
+
+
+    <string name="level14">Level: 14</string>
+    <string name="text_s1_level14_description">\t\tPick the planet which is the closet to the Earth.\n\t\tGood Luck!</string>
+    <string name="text_s1_level14_description_end">\t\tDid you know,Saturn\'s rings are 90% water? </string>
+
+
+    <string name="level15">Level: 15</string>
+    <string name="text_s1_level15_description">\t\tPick the letter which is closer to the beginning of the alphabet.\n\t\Удачи!</string>
+    <string name="text_s1_level15_description_end">\t\tJapanese is the one of the quickest conversational of world languages.</string>
+
+
+    <string name="gotoMainMenut">Main Menu</string>
+    <string name="s1_final_titles">\t\tCongratulation! You\'ve passed season 1!\n\t\tFor now, you know a little bit more, than you launched the game the first time.\n\t\tThe tip of the iceberg represent the superficial pieces of knowledge, and the underneath part are the deepest bits of knowledge. As in real life, the fact is, that tip of the iceberg can be seen, and the rest of the iceberg, which is much larger, is underneath the water and cannot be seen. \n\t\tI hope your fragments of knowledge have become deeper than it was before. In order to achieve personal goals, you have to expand not only outlooks, but also your professional skills.\n\t\tThank you for your time. I hope you will estimate the game highly.</string>
+
+
+
+
+</resources>

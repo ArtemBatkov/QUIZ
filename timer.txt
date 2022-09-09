@@ -1,0 +1,105 @@
+package hardroid.quiz;
+import android.animation.ObjectAnimator;
+import android.os.CountDownTimer;
+import android.widget.ProgressBar;
+import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+
+public class Timer extends AppCompatActivity {
+
+    public Timer(ProgressBar timer, TextView text_timer){
+        //begin condition of the timer
+        this.timer = timer;
+        this.text_timer = text_timer;
+        InitialTimer(); // initialize
+//        TimerStart();
+    }
+
+    private boolean ticking = false;
+
+    public boolean TimerIsTicking(){
+        return ticking;
+    }
+
+    public void TimerStart(){
+        timerthread = new TimerThread();
+        timerthread.run();
+        System.out.println("\nTimer has started, object id: " + timerthread);
+        ticking = true;
+    }
+
+    public void TimerStop(){
+        timerthread.interrupt();
+        ticking = false;
+        System.out.println("Timer has finished, object id: " + timerthread);
+        timer.performClick();
+    }
+
+    public void  TimerReload(){
+        ticking = false;
+        if(TimerIsTicking()){
+            //when timer goes
+            timerthread.interrupt();
+        }
+        ticking = true;
+        System.out.println("Timer has reloaded, object id: "+timerthread);
+        timerthread.run();
+    }
+
+    private void  InitialTimer(){
+        //Initial condition
+        current_value = initial_value;
+        text_timer.setText(String.valueOf(5));
+        timer.setProgress(100);
+    }
+
+    private TimerThread timerthread;
+
+
+    private ProgressBar timer;
+    private  TextView text_timer;
+
+
+
+    private  long TimeStart;
+    private long TimeWindow = 5000; // 5sec
+
+    private  int progress_ratio;
+
+    private int initial_value = (int) (TimeWindow/1000);
+    private  int current_value = initial_value;
+
+    private long TimeInterval = 1000;
+
+
+    private class TimerThread  extends Thread{
+
+        public void run(){
+            InitialTimer();
+            CountDownTimer time = new CountDownTimer(TimeWindow,TimeInterval){
+                @Override
+                public void onTick(long millisUntilFinished){
+                    current_value -= 1;
+                    text_timer.setText(String.valueOf(current_value));
+                    timer.setProgress(current_value);
+                    System.out.println(current_value);
+                    System.out.println("timer is ticking: "+TimerIsTicking());
+                }
+                @Override
+                public void onFinish(){
+                    text_timer.setText("0");
+                    timer.setProgress(0);
+                    TimerStop();
+                    System.out.println("timer is ticking: "+TimerIsTicking());
+                }
+            };
+            timer.setMax(initial_value);
+            time.start();
+
+        }
+    }
+
+
+}

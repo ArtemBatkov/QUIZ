@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1035" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_answer_pressed_right.xml" value="0.214" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_answer_pressed_wrong.xml" value="0.214" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_answer_unpressed.xml" value="0.199" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_back_level1.xml" value="0.2135" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_back_level1_pressed.xml" value="0.2135" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_back_level1_unpressed.xml" value="0.2135" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvl_back.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvl_back_pressed.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvl_back_unpressed.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvl_unpressed.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvlpick.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvlpick_pressed.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_lvlpick_unpressed.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_play_pressed.xml" value="0.155" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_play_unpressed.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btn_season_back.xml" value="0.123" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btns_line.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/btns_line_pressed.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/button_play.xml" value="0.155" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1105" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1105" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/sample.xml" value="0.124" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_btn_lvl_line.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_cardview.xml" value="0.1445" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_img_universal.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_langchange.xml" value="0.196" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_points.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_points_blue.xml" value="0.1325" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_points_green.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/drawable/style_timer_universal.xml" value="0.1015" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/font/.xml" value="0.2675925925925926" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/font/actor.xml" value="0.2675925925925926" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/font/source_sans_pro.xml" value="0.2675925925925926" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-large/four_buttons_universal.xml" value="0.25" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-large/four_colors_universal.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-large/four_imgs_universal.xml" value="0.23389830508474577" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-large/pazzle_layour.xml" value="0.20416666666666666" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-large/season1_level1.xml" value="0.12360688956433637" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-large/true_false_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-normal/four_buttons_universal.xml" value="0.21666666666666667" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-normal/four_colors_universal.xml" value="0.264" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-normal/four_imgs_universal.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-normal/season1_level1.xml" value="0.264" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-normal/true_false_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-small/four_buttons_universal.xml" value="1.0136054421768708" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-small/four_colors_universal.xml" value="1.4038461538461537" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-small/four_imgs_universal.xml" value="0.53954802259887" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-small/pazzle_layour.xml" value="1.225" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-small/season1_level1.xml" value="0.8800000000000001" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-small/true_false_layout.xml" value="1.525" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-xlarge/four_buttons_universal.xml" value="0.203125" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-xlarge/four_colors_universal.xml" value="0.264" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-xlarge/four_imgs_universal.xml" value="0.23828125" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-xlarge/pazzle_layour.xml" value="0.19140625" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-xlarge/season1_level1.xml" value="0.16" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout-xlarge/true_false_layout.xml" value="0.23828125" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/animation.xml" value="0.1" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/end_level_1.xml" value="0.2" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/end_level_2.xml" value="0.264" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/four_buttons_universal.xml" value="0.21666666666666667" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/four_colors_universal.xml" value="0.19010416666666666" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/four_imgs_universal.xml" value="0.264" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/gamelevels.xml" value="0.245018115942029" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/main_menu.xml" value="0.2" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/pazzle_layour.xml" value="0.324468085106383" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/preview_level.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/preview_level_1.xml" value="0.176" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/season1_level1.xml" value="0.2" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/season1_level2.xml" value="0.9545454545454546" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/season1_nextlevel.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/season1_titles.xml" value="0.2" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/true_false_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/layout/universal_s1.xml" value="0.13903985507246377" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+        <entry key="..\:/MobDevProjects/QUIZ/Mobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

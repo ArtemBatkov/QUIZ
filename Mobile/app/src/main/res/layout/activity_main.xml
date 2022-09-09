@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/main_background"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/main_background_iceberg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        >
+
+        <ImageView
+            android:id="@+id/volume_on_off"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/sound_on"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            />
+
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:background="@drawable/button_play"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/start_btn"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="10dp"
+          />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/montserrat_alternates"
+        android:gravity="center"
+        android:shadowColor="@color/black"
+        android:shadowDx="-4.5"
+        android:shadowDy="4.5"
+        android:shadowRadius="0.01"
+        android:text="@string/iceburg_txt"
+        android:textAllCaps="false"
+        android:textColor="#F2FFFFFF"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/btn_play"
+        app:layout_constraintLeft_toLeftOf="@id/btn_play"
+        app:layout_constraintRight_toRightOf="@id/btn_play" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

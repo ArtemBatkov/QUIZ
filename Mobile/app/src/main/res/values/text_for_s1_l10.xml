@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_l10_swim1">fish</string>
+    <string name="s1_l10_swim2">shark</string>
+    <string name="s1_l10_swim3">squid</string>
+    <string name="s1_l10_swim4">turtle</string>
+    <string name="s1_l10_swim5">penguin</string>
+    <string name="s1_l10_swim6">dog</string>
+    <string name="s1_l10_swim7">tiger</string>
+    <string name="s1_l10_swim8">bee</string>
+    <string name="s1_l10_swim9">duck</string>
+    <string name="s1_l10_swim10">grass-snake</string>
+    <string name="s1_l10_swim11">elephant</string>
+    <string name="s1_l10_swim12">bear</string>
+    <string name="s1_l10_swim13">gray rat</string>
+    <string name="s1_l10_swim14">ship</string>
+    <string name="s1_l10_swim15">sea plane</string>
+
+    <string name="s1_l10_noswim1">hedgehog</string>
+    <string name="s1_l10_noswim2">monkey</string>
+    <string name="s1_l10_noswim3">giraffe</string>
+    <string name="s1_l10_noswim4">parrot</string>
+    <string name="s1_l10_noswim5">pigeon</string>
+    <string name="s1_l10_noswim6">fly</string>
+    <string name="s1_l10_noswim7">spider</string>
+    <string name="s1_l10_noswim8">scorpion</string>
+    <string name="s1_l10_noswim9">starfish</string>
+    <string name="s1_l10_noswim10">rabbit</string>
+    <string name="s1_l10_noswim11">gold</string>
+    <string name="s1_l10_noswim12">stone</string>
+    <string name="s1_l10_noswim13">sea grass</string>
+    <string name="s1_l10_noswim14">house</string>
+    <string name="s1_l10_noswim15">car</string>
+
+</resources>

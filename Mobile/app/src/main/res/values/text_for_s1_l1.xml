@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="s1l1_zero">Zero</string>
+    <string name="s1l1_one">One</string>
+    <string name="s1l1_two">Two</string>
+    <string name="s1l1_three">Three</string>
+    <string name="s1l1_four">Four</string>
+    <string name="s1l1_five">Five</string>
+    <string name="s1l1_six">Six</string>
+    <string name="s1l1_seven">Seven</string>
+    <string name="s1l1_eight">Eight</string>
+    <string name="s1l1_nine">Nine</string>
+</resources>

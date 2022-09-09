@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+
+
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/wave"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/water"
+            app:lottie_repeatMode="reverse"
+            app:lottie_speed="1"
+            app:lottie_progress="50"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/iceburg"
+            app:lottie_speed="1"
+            android:paddingTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            app:lottie_autoPlay="true"
+            android:scaleType="centerCrop"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/s1_iceburg2_final"
+            app:lottie_repeatMode="reverse" />
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/title_s1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:alpha="0.85"
+                    android:fontFamily="@font/sweet"
+                    android:singleLine="false"
+                    android:text="@string/s1_final_titles"
+                    android:textColor="@color/s1_final_titels"
+                    android:textSize="30sp">
+
+                </TextView>
+
+
+                <Button
+                    android:id="@+id/gotomainmenu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/gotoMainMenut"
+                    android:textSize="30sp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="30dp"
+                    android:textColor="@color/play_strtcolor_unpressed"
+                    android:background="@drawable/button_play"/>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+    </FrameLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+

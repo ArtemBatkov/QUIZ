@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_l7_shaslik">шашлык</string>
+    <string name="s1_l7_big_mak">биг мак</string>
+    <string name="s1_l7_grapes">виноград</string>
+    <string name="s1_l7_salsa">сальса</string>
+    <string name="s1_l7_soup">суп</string>
+    <string name="s1_l7_shawarma">шаурма</string>
+    <string name="s1_l7_sushi">суши</string>
+    <string name="s1_l7_eggs_and_bacon">яичница с беконом</string>
+    <string name="s1_l7_maple_syrup">кленовый сироп</string>
+    <string name="s1_l7_khinkali">хинкали</string>
+    <string name="s1_l7_borsh">борщ</string>
+    <string name="s1_l7_pizza">пицца</string>
+    <string name="s1_l7_ice_cream">мороженное</string>
+    <string name="s1_l7_echpochmak">эчпочмак</string>
+    <string name="s1_l7_chips">чипсы</string>
+
+    <!--unetable-->
+    <string name="s1_l7_dust">пыль</string>
+    <string name="s1_l7_battery">батарейка</string>
+    <string name="s1_l7_cargo">сухогруз</string>
+    <string name="s1_l7_cloud">облака</string>
+    <string name="s1_l7_gazelle">газель</string>
+    <string name="s1_l7_dog">собака</string>
+    <string name="s1_l7_brick">кирпич</string>
+    <string name="s1_l7_laptop">ноутбук</string>
+    <string name="s1_l7_kitty">котенок</string>
+    <string name="s1_l7_weight_100g">гиря 100г</string>
+    <string name="s1_l7_house">дом</string>
+    <string name="s1_l7_ept">ЛЭП</string>
+    <string name="s1_l7_plate">тарелка</string>
+    <string name="s1_l7_sea">море</string>
+    <string name="s1_l7_hammer">молоток</string>
+
+</resources>

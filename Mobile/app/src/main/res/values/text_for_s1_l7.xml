@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_l7_shaslik">shashlik</string>
+    <string name="s1_l7_big_mak">big mak</string>
+    <string name="s1_l7_grapes">grapes</string>
+    <string name="s1_l7_salsa">salsa</string>
+    <string name="s1_l7_soup">soup</string>
+    <string name="s1_l7_shawarma">shawarma</string>
+    <string name="s1_l7_sushi">sushi</string>
+    <string name="s1_l7_eggs_and_bacon">eggs and bacon</string>
+    <string name="s1_l7_maple_syrup">maple syrup</string>
+    <string name="s1_l7_khinkali">khinkali</string>
+    <string name="s1_l7_borsh">borsh</string>
+    <string name="s1_l7_pizza">pizza</string>
+    <string name="s1_l7_ice_cream">ice cream</string>
+    <string name="s1_l7_echpochmak">echpochmak</string>
+    <string name="s1_l7_chips">chips</string>
+
+    <!--unetable-->
+    <string name="s1_l7_dust">dust</string>
+    <string name="s1_l7_battery">battery</string>
+    <string name="s1_l7_cargo">cargo</string>
+    <string name="s1_l7_cloud">cloud</string>
+    <string name="s1_l7_gazelle">gazelle</string>
+    <string name="s1_l7_dog">dog</string>
+    <string name="s1_l7_brick">brick</string>
+    <string name="s1_l7_laptop">laptop</string>
+    <string name="s1_l7_kitty">kitty</string>
+    <string name="s1_l7_weight_100g">weight 100g</string>
+    <string name="s1_l7_house">house</string>
+    <string name="s1_l7_ept">EPT</string>
+    <string name="s1_l7_plate">plate</string>
+    <string name="s1_l7_sea">sea</string>
+    <string name="s1_l7_hammer">hammer</string>
+
+</resources>

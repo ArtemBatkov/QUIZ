@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s1_l10_swim1">рыба</string>
+    <string name="s1_l10_swim2">акула</string>
+    <string name="s1_l10_swim3">кальмар</string>
+    <string name="s1_l10_swim4">черепаха</string>
+    <string name="s1_l10_swim5">пингвин</string>
+    <string name="s1_l10_swim6">собака</string>
+    <string name="s1_l10_swim7">тигр</string>
+    <string name="s1_l10_swim8">пчела</string>
+    <string name="s1_l10_swim9">утка</string>
+    <string name="s1_l10_swim10">уж</string>
+    <string name="s1_l10_swim11">слон</string>
+    <string name="s1_l10_swim12">медведь</string>
+    <string name="s1_l10_swim13">крыса</string>
+    <string name="s1_l10_swim14">корабль</string>
+    <string name="s1_l10_swim15">гидросамолет</string>
+
+    <string name="s1_l10_noswim1">ёж</string>
+    <string name="s1_l10_noswim2">обезьяна</string>
+    <string name="s1_l10_noswim3">жираф</string>
+    <string name="s1_l10_noswim4">попугай</string>
+    <string name="s1_l10_noswim5">голубь</string>
+    <string name="s1_l10_noswim6">муха</string>
+    <string name="s1_l10_noswim7">паук</string>
+    <string name="s1_l10_noswim8">скорпион</string>
+    <string name="s1_l10_noswim9">морская звезда</string>
+    <string name="s1_l10_noswim10">кролик</string>
+    <string name="s1_l10_noswim11">золото</string>
+    <string name="s1_l10_noswim12">камень</string>
+    <string name="s1_l10_noswim13">водоросли</string>
+    <string name="s1_l10_noswim14">дом</string>
+    <string name="s1_l10_noswim15">машина</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="s1l3_bobtail_cat">Короткохвостый\nкот</string>
+    <string name="s1l3_vole">Полёвка</string>
+    <string name="s1l3_budgie">Попугай</string>
+    <string name="s1l3_dog">Собака</string>
+    <string name="s1l3_squirrel">Белка</string>
+    <string name="s1l3_skunk">Скунс</string>
+    <string name="s1l3_wolf">Волк</string>
+    <string name="s1l3_pheasant">Фазан</string>
+    <string name="s1l3_lemur">Лемур</string>
+    <string name="s1l3_astrapia">Астрапия</string>
+</resources>
